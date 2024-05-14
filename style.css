@@ -23,7 +23,7 @@ tfoot,
 th,
 thead,
 tr {
-  border: none;
+  border: none!important;
   background: none !important;
 }
 
